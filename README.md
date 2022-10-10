@@ -48,8 +48,6 @@ I am a <img src="https://media.giphy.com/media/3o7WIFs2ydhIrdMcyA/giphy.gif" wid
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-[![BigBoyAdybabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBoyAbydabe)](https://github.com/BigBoyAbydabe/github-readme-stats)
-
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigBoyAbydabe&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
