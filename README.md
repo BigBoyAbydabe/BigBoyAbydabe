@@ -48,7 +48,7 @@ I am a <img src="https://media.giphy.com/media/3o7WIFs2ydhIrdMcyA/giphy.gif" wid
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBoyAbydabe)](https://github.com/BigBoyAbydabe/github-readme-stats)
+[![BigBoyAdybabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBoyAbydabe)](https://github.com/BigBoyAbydabe/github-readme-stats)
 
 ---
 ### :fire: My Stats :
