@@ -50,4 +50,4 @@ I am a <img src="https://media.giphy.com/media/3o7WIFs2ydhIrdMcyA/giphy.gif" wid
 
 ---
 ### :fire: My Stats :
-http://github-readme-streak-stats.herokuapp.com?user=BigBoyAbydabe&theme=dark&background=000000)
+http://github-readme-streak-stats.herokuapp.com?user=BigBoyAbydabe&theme=dark&background=000000
