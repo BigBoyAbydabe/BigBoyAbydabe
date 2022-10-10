@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="600" height="300"/>
 </div>
 
-<h3 align="center">хачу питсы 🇷🇺</h3>
+<h3 align="center"> 🇷u хачу питсы 🇷🇺</h3>
 
 
 ### :man_technologist: About Me :
