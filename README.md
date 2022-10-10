@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://giphy.com/gifs/fun-meme-hacker-B4dt6rXq6nABilHTYM](https://media0.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif?cid=ecf05e472subsqyjwglg8ouei0hfjfgottynjsb40iqihgmk&rid=giphy.gif&ct=g)" width="100"/>
+  <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="1000"/>
 </div>
 
 
