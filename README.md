@@ -29,4 +29,4 @@
 
 
 ### :man_technologist: About Me :
-I am a Deadinside228 <img src="https://media.giphy.com/media/WoXiTNv7oF58skBDjB/giphy.gif" width="45"> from Moscow.
+I am a Deadinside228 <img src="https://media.giphy.com/media/3o7WIFs2ydhIrdMcyA/giphy.gif" width="45"> from Moscow.
