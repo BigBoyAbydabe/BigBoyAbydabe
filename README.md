@@ -36,7 +36,7 @@ I am a <img src="https://media.giphy.com/media/3o7WIFs2ydhIrdMcyA/giphy.gif" wid
 
 - 😍 Ёжик
 
-- 💩 Не танкист (да, я крутой😺)
+- 💩 Не танкист (да, я крутой😺) <img src="https://media.giphy.com/media/U3uEDJ2PfSQdG/giphy.gif" width="250"/>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
