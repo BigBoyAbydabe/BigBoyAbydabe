@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="600" height="300"/>
 </div>
 
-<h3 align="center"> 🇷u хачу питсы 🇷🇺</h3>
+<h3 align="center">хачу питсы 🇷🇺</h3>
 
 
 ### :man_technologist: About Me :
@@ -36,7 +36,7 @@ I am a <img src="https://media.giphy.com/media/3o7WIFs2ydhIrdMcyA/giphy.gif" wid
 
 - 😍 Ёжик
 
-- 💩 Не танкист (да, я крутой😺) <img src="https://media.giphy.com/media/U3uEDJ2PfSQdG/giphy.gif" width="250"/>
+- 💩 Не танкист (да, я крутой😺) <img src="https://media.giphy.com/media/U3uEDJ2PfSQdG/giphy.gif" width="200"/>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
