@@ -57,7 +57,6 @@ I am a <img src="https://media.giphy.com/media/3o7WIFs2ydhIrdMcyA/giphy.gif" wid
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BigBoyAbydabe&theme=solarized_dark)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Вот+такой+я+красивый+😮)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=и+смешной+😅)](https://git.io/typing-svg)
