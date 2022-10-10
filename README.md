@@ -26,3 +26,6 @@
 </div>
 
 <h3 align="center">хачу питсы 🇷🇺</h3>
+
+
+### :man_technologist: About Me :
