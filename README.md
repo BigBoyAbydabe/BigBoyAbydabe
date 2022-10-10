@@ -29,6 +29,6 @@
 
 
 ### :man_technologist: About Me :
-- I am a <img src="https://media.giphy.com/media/3o7WIFs2ydhIrdMcyA/giphy.gif" width="75"> from Moscow.
+I am a <img src="https://media.giphy.com/media/3o7WIFs2ydhIrdMcyA/giphy.gif" width="75"> from Moscow.
 - 😋Страдаю от тахикардии и пью много энергетиков
 - 😵Увлекаюсь программированием, но мне дико лень это всё учить
