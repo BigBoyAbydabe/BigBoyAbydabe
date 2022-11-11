@@ -16,7 +16,7 @@
 </div>
 <div id="heythere" align="center">
   <h1>
-  Шалом бродяги, я <a href="https://vk.com/aristokratichn1y" target="_blank">Daniil</a>
+  Привет, я <a href="https://vk.com/aristokratichn1y" target="_blank">Daniil</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
